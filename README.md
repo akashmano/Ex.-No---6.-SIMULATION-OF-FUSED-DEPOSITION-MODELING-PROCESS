@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 27/11/2023
+## DATE:
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -76,8 +76,8 @@
 # 4.Remove the printed object from the build platform. Be careful not to bend or break the object.
 # 5..Clean the build platform with an appropriate solvent, such as isopropyl alcohol, to remove any leftover filament or adhesives.
 
-### Name:Pavithra P
-### Register Number:23007232
+### Name:akash.m
+### Register Number:212223240003
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
